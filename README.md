@@ -1,6 +1,6 @@
 # DD2434-VAE-Project (Re-Autoencoding Variational Bayes)
 
-Small Project in DD2434 Advanced Machine Learning by Diogo Pinheiro, Jakob Lindén, Márk Csizmadia, and Patrick Jonsson.
+Project in DD2434 Advanced Machine Learning by Diogo Pinheiro, Jakob Lindén, Márk Csizmadia, and Patrick Jonsson.
 
 ## Installation
 
